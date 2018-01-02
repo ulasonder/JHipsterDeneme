@@ -1,0 +1,2 @@
+# JHipsterDeneme
+JHipster deneme projesi
